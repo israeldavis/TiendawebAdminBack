@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="TiendawebBackEnd" />
+        <module name="TiendawebCommon" />
+        <module name="TiendawebFrontEnd" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="TiendawebBackEnd" target="11" />
+      <module name="TiendawebCommon" target="11" />
+      <module name="TiendawebFrontEnd" target="11" />
+      <module name="TiendawebProject" target="1.5" />
+      <module name="TiendawebWebParent" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="TiendawebBackEnd" options="-parameters" />
+      <module name="TiendawebCommon" options="-parameters" />
+      <module name="TiendawebFrontEnd" options="-parameters" />
+    </option>
+  </component>
+</project>

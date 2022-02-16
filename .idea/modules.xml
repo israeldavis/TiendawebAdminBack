@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TiendawebWebParent/TiendawebBackEnd/TiendawebBackEnd.iml" filepath="$PROJECT_DIR$/TiendawebWebParent/TiendawebBackEnd/TiendawebBackEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiendawebCommon/TiendawebCommon.iml" filepath="$PROJECT_DIR$/TiendawebCommon/TiendawebCommon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiendawebWebParent/TiendawebFrontEnd/TiendawebFrontEnd.iml" filepath="$PROJECT_DIR$/TiendawebWebParent/TiendawebFrontEnd/TiendawebFrontEnd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiendawebProject.iml" filepath="$PROJECT_DIR$/TiendawebProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TiendawebWebParent/TiendawebWebParent.iml" filepath="$PROJECT_DIR$/TiendawebWebParent/TiendawebWebParent.iml" />
+    </modules>
+  </component>
+</project>
